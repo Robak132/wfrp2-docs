@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/profesje/profesje-podstawowe/bledny-rycerz/"}
 ---
+
 *Profesja podstawowa (Rycerze Graala s. 124-125)*
 
 Rycerze Imperium rozpoczynają zdobywanie bitewnego doświadczenia jako giermkowie starszych rycerzy, często pełniąc niewdzięczną rolę służącego. Ale czego można się spodziewać po narodzie, który wyrzekł się honoru, zaprzedał za złoto swą chwałę, a na wojnie opiera się na sile chłopskich i najemnych regimentów? Gdzie podziały się honor, odwaga i szlachetność?
