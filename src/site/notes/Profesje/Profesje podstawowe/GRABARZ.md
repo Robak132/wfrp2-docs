@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/profesje/profesje-podstawowe/grabarz/"}
+{"dg-publish":true,"permalink":"/Profesje/Profesje podstawowe/GRABARZ/"}
 ---
 
 *Profesja podstawowa (Mroczni Władcy Nocy s. 97)*

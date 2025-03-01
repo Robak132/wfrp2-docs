@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/profesje/profesje-zaawansowane/akolita-kultu-nurgla/"}
+{"dg-publish":true,"permalink":"/Profesje/Profesje zaawansowane/AKOLITA KULTU NURGLA/"}
 ---
 
 *Profesja zaawansowana/specjalna (Księga Spaczenia s. 98)*

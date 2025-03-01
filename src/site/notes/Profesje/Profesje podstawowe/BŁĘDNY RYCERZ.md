@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/profesje/profesje-podstawowe/bledny-rycerz/"}
+{"dg-publish":true,"permalink":"/Profesje/Profesje podstawowe/BŁĘDNY RYCERZ/"}
 ---
 
 *Profesja podstawowa (Rycerze Graala s. 124-125)*

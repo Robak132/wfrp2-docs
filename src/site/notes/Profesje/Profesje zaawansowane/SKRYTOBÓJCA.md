@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/Profesje/Profesje zaawansowane/SKRYTOBÓJCA/"}
 ---
+
 *Profesja zaawansowana (Księga Zasad s. 81)*
 
 Zabijanie za pieniądze nie jest niczym niezwykłym w Starym Świecie. Żołnierze i najemnicy w taki sposób zarabiają na żołd. Jednakże niewielu wojowników osiąga poziom skuteczności skrytobójcy. Najemni zabójcy są doskonale wyszkoleni i potrafią posługiwać się szerokim asortymentem równych broni. Większość wykorzystuje też różnego rodzaju trucizny. Najlepsi skrytobójcy potrafią zabić wyznaczoną ofiarę w mgnieniu oka i wycofać się, nie pozostawiając nawet śladu swojej obecności. Ich usługi są często opłacane przez arystokratów, a nawet przez organizacje religijne. Skrytobójców zwykle nie obchodzi charakter zlecenia ani osoba zleceniodawcy. Interesuje ich tylko trudność misji i wysokość zapłaty. Większość zamachowców działa samotnie, choć w niektórych miastach istnieją gildie skrytobójców.

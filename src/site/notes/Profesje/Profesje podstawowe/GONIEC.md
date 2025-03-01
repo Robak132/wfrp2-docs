@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/profesje/profesje-podstawowe/goniec/"}
+{"dg-publish":true,"permalink":"/Profesje/Profesje podstawowe/GONIEC/"}
 ---
 
 *Profesja podstawowa/specjalna (Księga Zasad s. 37)*
