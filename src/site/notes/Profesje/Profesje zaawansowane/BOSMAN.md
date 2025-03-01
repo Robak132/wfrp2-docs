@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/profesje/profesje-zaawansowane/bosman/"}
 ---
+
 *Profesja zaawansowana (Księga Zasad s. 65)*
 
 Bosman na żaglowcu odpowiada tylko przed kapitanem. Do jego obowiązków należy utrzymanie dyscypliny na statku, co często bywa trudnym zadaniem, nawet w przypadku doskonale zgranej załogi. Bosmani są zazwyczaj surowi, ale sprawiedliwi. Muszą tacy być, by zasłużyć sobie na szacunek załogi i nie stać się obiektem kpin ze strony żeglarzy lub ich pierwszą ofiarą w wypadku buntu na okręcie. Zawsze są doświadczonymi żeglarzami. Wielu pływało po różnych morzach Starego Świata i w niejednej terenie pili rum. W większości portów czeka na nich dziewczyna i wrogowie pamiętający poprzednią bijatykę.
