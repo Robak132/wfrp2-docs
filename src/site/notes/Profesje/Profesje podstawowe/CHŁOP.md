@@ -1,0 +1,18 @@
+---
+dg-publish: true
+---
+*Profesja podstawowa (Księga Zasad s. 33)*
+
+Chłopi stanowią najliczniejszą cześć ludności Imperium. Szlachta rządzi, mieszczanie handlują, natomiast chłopi wykonują za nich najcięższą pracę. Uprawiają ziemię, wypasają bydło i zajmują się drobnym rzemiosłem. W czasie wojny walczą i giną za swojego władcę oraz Imperium. Wielu chłopów szuka lepszego życia w miastach, zasilają wciąż rosnącą rzeszę żebraków i biedaków żyjących na skraju śmierci głodowej. Większość chłopów całe życie spędza w swoich wioskach, otoczonych przez dzikie ostępy lub mroczne lasy. Mimo iż są zacofani i przesądni, chłopi to prawdziwa sól tej ziemi.
+
+|  WW   |   US    |   K   |  Odp   |   Zr   |   Int   |   SW   |  Ogd   |
+|:-----:|:-------:|:-----:|:------:|:------:|:-------:|:------:|:------:|
+|  +5   |   +5    |  +5   |  +10   |   +5   |    —    |   +5   |   —    |
+| **A** | **Żyw** | **S** | **Wt** | **Sz** | **Mag** | **PO** | **PP** |
+|   —   |   +2    |   —   |   —    |   —    |    —    |   —    |   —    |
+
+**Umiejętności**: hazard **albo** kuglarstwo (taniec albo śpiew), opieka nad zwierzętami **albo** przekonywanie, oswajanie **albo** rzemiosło (gotowanie), powożenie **albo** rzemiosło (wyrób łuków), sztuka przetrwania **albo** rzemiosło (uprawa ziemi), tresura **albo** pływanie, ukrywanie się, wioślarstwo **albo** zastawianie pułapek, wspinaczka **albo** skradanie się
+**Zdolności**: chodu! **albo** broń specjalna (proca), twardziel **albo** wędrowiec
+**Wyposażenie:** proca **albo** kij, skórzany bukłak
+
+**Profesje wyjściowe:** [[Profesje/Profesje zaawansowane/TRESER\|TRESER]],  [[Profesje/Profesje zaawansowane/HUSARZ\|HUSARZ]],  [[Profesje/Profesje podstawowe/BAGIENNIK\|BAGIENNIK]], [[Profesje/Profesje podstawowe/BANITA\|BANITA]], [[Profesje/Profesje podstawowe/DOKER\|DOKER]], [[Profesje/Profesje podstawowe/FANATYK\|FANATYK]], [[Profesje/Profesje podstawowe/GAZECIARZ\|GAZECIARZ]], [[Profesje/Profesje podstawowe/GRABARZ\|GRABARZ]], [[Profesje/Profesje podstawowe/KOMINIARZ\|KOMINIARZ]], [[Profesje/Profesje podstawowe/LATARNIK\|LATARNIK]], [[Profesje/Profesje podstawowe/OCHOTNIK\|OCHOTNIK]], [[Profesje/Profesje podstawowe/PACHOŁEK\|PACHOŁEK]], [[Profesje/Profesje podstawowe/PASTERZ Z CARCASSONNE\|PASTERZ Z CARCASSONNE]], [[Profesje/Profesje podstawowe/POGRANICZNIK\|POGRANICZNIK]], [[Profesje/Profesje podstawowe/PIELGRZYM GRAALA\|PIELGRZYM GRAALA]], [[Profesje/Profesje podstawowe/PIRAT RZECZNY\|PIRAT RZECZNY]], [[Profesje/Profesje podstawowe/POGANIACZ MUŁÓW\|POGANIACZ MUŁÓW]], [[Profesje/Profesje podstawowe/ROLNIK\|ROLNIK]], [[Profesje/Profesje podstawowe/ROZJEMCA\|ROZJEMCA]], [[Profesje/Profesje podstawowe/RYBAK\|RYBAK]], [[Profesje/Profesje podstawowe/RZEMIEŚLNIK\|RZEMIEŚLNIK]], [[Profesje/Profesje podstawowe/SŁUGA\|SŁUGA]], [[Profesje/Profesje podstawowe/STRAŻNIK KANAŁÓW\|STRAŻNIK KANAŁÓW]], [[Profesje/Profesje podstawowe/SZPERACZ\|SZPERACZ]], [[Profesje/Profesje podstawowe/ŚMIECIARZ\|ŚMIECIARZ]], [[Profesje/Profesje podstawowe/UCZEŃ GUŚLARZA\|UCZEŃ GUŚLARZA]], [[Profesje/Profesje zaawansowane/URZĘDNIK\|URZĘDNIK]], [[Profesje/Profesje podstawowe/WĘGLARZ\|WĘGLARZ]], [[Profesje/Profesje podstawowe/ZAKAPTURZONY\|ZAKAPTURZONY]], [[Profesje/Profesje podstawowe/ZBIERACZ ŁAJNA\|ZBIERACZ ŁAJNA]], [[Profesje/Profesje podstawowe/ŻABIARKA\|ŻABIARKA]], [[Profesje/Profesje zaawansowane/BRYGADZISTA\|BRYGADZISTA]], [[Profesje/Profesje zaawansowane/BUDOWNICZY\|BUDOWNICZY]], [[Profesje/Profesje zaawansowane/ŁUCZNIK KONNY\|ŁUCZNIK KONNY]]
