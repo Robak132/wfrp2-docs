@@ -6,7 +6,7 @@
 
 Dyletanci uważają siebie za uczonych i faktycznie, wielu z nich za nich uchodzi wśród pospólstwa, ponieważ umieją czytać i pisać. Jednak często brak im dyscypliny lub pasji, która pozwala prawdziwym uczonym skupić się na jednej dziedzinie i zostać ekspertem, zamiast tego ich wysiłki są rozproszone na wielu gałęziach nauki. Większość dyletantów pochodzi z bogatych rodzin, biedni szybko odkrywają, że głód wyśmienicie wzmaga koncentrację. Ci „uczeni” szczycą się szeroką wiedzą, udziałem w wielu projektom i rozwijaniu wszystkich zainteresowań w tym samym czasie. Dyletant to „profesjonalny amator” – zainteresowany sztuką, wynalazkami, literaturą, religią i każdym innym tematem, przynajmniej, zanim pojawi się coś nowego i ciekawego.
 
-~={red}**Uwaga:** Dyletant może wykupić dowolną umiejętność, którą obecnie posiada, jednak nie może z tego powodu uzyskać żadnej specjalizacji (+10 lub +20).=~
+<span style="color:red">**Uwaga:** Dyletant może wykupić dowolną umiejętność, którą obecnie posiada, jednak nie może z tego powodu uzyskać żadnej specjalizacji (+10 lub +20).</span>
 
 | WW  | US  |  K  | Odp | Zr  | Int | SW  | Ogd |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
