@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/TABELA PROFESJI (ORGINALNA)/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/tabela-profesji-orginalna/","tags":["gardenEntry"]}
 ---
 
 

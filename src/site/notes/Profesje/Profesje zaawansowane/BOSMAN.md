@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Profesje/Profesje zaawansowane/BOSMAN/"}
+{"dg-publish":true,"permalink":"/profesje/profesje-zaawansowane/bosman/"}
 ---
 
 *Profesja zaawansowana (Księga Zasad s. 65)*

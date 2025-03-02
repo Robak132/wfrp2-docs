@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Profesje/Profesje podstawowe/AKOLITA/"}
+{"dg-publish":true,"permalink":"/profesje/profesje-podstawowe/akolita/"}
 ---
 
 *Profesja podstawowa (Księga Zasad s. 32)*

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Profesje/Profesje podstawowe/APTEKARZ/"}
+{"dg-publish":true,"permalink":"/profesje/profesje-podstawowe/aptekarz/"}
 ---
 
 *Profesja podstawowa (Dziedzictwo Sigmara s. 142)*

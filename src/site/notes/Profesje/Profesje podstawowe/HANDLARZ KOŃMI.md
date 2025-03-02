@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Profesje/Profesje podstawowe/HANDLARZ KOŃMI/"}
+{"dg-publish":true,"permalink":"/profesje/profesje-podstawowe/handlarz-konmi/"}
 ---
 
 *Profesja podstawowa (Realm of the Ice Queen s. 103)*

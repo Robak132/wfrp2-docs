@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Profesje/Profesje podstawowe/FLISAK/"}
+{"dg-publish":true,"permalink":"/profesje/profesje-podstawowe/flisak/"}
 ---
 
 *Profesja podstawowa (Księga Zasad s. 36)*

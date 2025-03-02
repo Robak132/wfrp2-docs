@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Profesje/Profesje zaawansowane/SKRYTOBÓJCA/"}
+{"dg-publish":true,"permalink":"/profesje/profesje-zaawansowane/skrytobojca/"}
 ---
 
 *Profesja zaawansowana (Księga Zasad s. 81)*

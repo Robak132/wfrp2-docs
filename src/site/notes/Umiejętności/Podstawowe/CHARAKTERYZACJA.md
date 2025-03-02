@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/Umiejętności/Podstawowe/CHARAKTERYZACJA/"}
+{"dg-publish":true,"permalink":"/umiejetnosci/podstawowe/charakteryzacja/"}
 ---
 

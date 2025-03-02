@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Umiejętności/KUGLARSTWO/"}
+{"dg-publish":true,"permalink":"/umiejetnosci/kuglarstwo/"}
 ---
 
 Typ: Zaawansowana.
